@@ -78,17 +78,3 @@ python video_to_ascii.py
 * Real-time colored terminal preview is not included but can be added for fun.
 
 ---
-
-## Example
-
-Input: YouTube video of your choice
-Output: Colorful ASCII video retaining audio, ready to share or showcase.
-
----
-
-🎉 Have fun turning any video into a retro ASCII masterpiece!
-
-
-
-Do you want me to make that version too?
-```
